@@ -1,5 +1,5 @@
 # vue-shopping-cart
-Demo [Configuration Reference](https://sinanaksu.com/r/week1/).
+[Demo](https://sinanaksu.com/r/week1/).
 ## Project setup
 ```
 npm install
